@@ -5,7 +5,7 @@ title: Call for papers
 
 # CALL FOR PAPERS
 
-Universal Dependencies (UD) is a framework for cross-linguistically consistent treebank annotation that has so far been applied to over 80 languages (\https://universaldependencies.org/). The framework is aiming to capture similarities as well as idiosyncrasies among typologically different languages (e.g., morphologically rich languages, pro-drop languages, and languages featuring clitic doubling). The goal in developing UD was not only to support comparative evaluation and cross-lingual learning but also to facilitate multilingual natural language processing and enable comparative linguistic studies.
+Universal Dependencies (UD) is a framework for cross-linguistically consistent treebank annotation that has so far been applied to over 80 languages (<https://universaldependencies.org/>). The framework is aiming to capture similarities as well as idiosyncrasies among typologically different languages (e.g., morphologically rich languages, pro-drop languages, and languages featuring clitic doubling). The goal in developing UD was not only to support comparative evaluation and cross-lingual learning but also to facilitate multilingual natural language processing and enable comparative linguistic studies.
 
 The Universal Dependencies workshop series was started to create a forum for discussion of the theory and practice of UD, its use in research and development, and its future goals and challenges. The three workshops so far were held at NoDaLiDa in Gothenburg (2017), at EMNLP in Brussels (2018) and at SyntaxFest in Paris (2019). The fourth workshop on Universal Dependencies invites papers on all topics relevant to UD, including but not limited to:
 
