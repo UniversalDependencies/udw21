@@ -17,7 +17,7 @@ The Universal Dependencies workshop series was started to create a forum for dis
 - downstream applications in natural language processing
 - linguistic studies based on the UD data
 
-\Priority will be given to papers that adopt a cross-lingual perspective.
+Priority will be given to papers that adopt a cross-lingual perspective.
 
 We invite two types of papers: long papers (maximum length of eight (8) pages of content) as well as short papers (maximum length of four (4) pages of content), and should report substantially original research. Reviews will be double-blind. Papers will be presented as oral presentations or posters. All will be included in the proceedings published in the ACL Anthology, where no distinction will be made on the basis of mode of presentation.
 
