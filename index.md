@@ -5,6 +5,9 @@ title: UDW 2020
 
 # Universal Dependencies Workshop 2020 (UDW 2020)
 
+### [Coling 2020](https://coling2020.org), Barcelona,  September 14, 2020
+
+
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
 framework for cross-linguistically consistent treebank annotation that
 has so far been applied to over 70 languages.
