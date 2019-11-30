@@ -43,7 +43,8 @@ title: Organization
 * Ryan McDonald, Google, UK
 * Stephan Oepen, University of Oslo, Norway
 * Lilja Ovrelid, University of Oslo, Norway
-* Agnieszka Patejuk, Polish Academy of Sciences, Poland
+* Agnieszka Patejuk, University of Oxford, UK and Polish Academy
+of Sciences, Poland
 * Guy Perrier, University of Lorraine, France
 * Tommi Pirinen, University of Hamburg, Germany
 * Martin Popel, Charles University, Czech Repbulic
