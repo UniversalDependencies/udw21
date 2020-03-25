@@ -20,6 +20,10 @@ support comparative evaluation and cross-lingual learning but also to
 facilitate multilingual natural language processing and enable
 comparative linguistic studies.
 
+**Invited speaker**: Martha Palmer, University of Colorado Boulder, USA
+
+**Note regarding the COVID-19 pandemic**: Like the COLING 2020 organizers, we remain optimistic that the workshop can take place in Barcelona in September. We will closely monitor the developments  and will inform you as early as possible in case we have to make alternative arrangements. We will also provide opportunities for remote presentations to presenters who cannot attend in person due to potentially remaining travel bans. 
+
 <hr style="margin:40px">
 
 ### Sponsored by
