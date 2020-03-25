@@ -19,3 +19,10 @@ featuring clitic doubling). The goal in developing UD was not only to
 support comparative evaluation and cross-lingual learning but also to
 facilitate multilingual natural language processing and enable
 comparative linguistic studies.
+
+<hr style="margin:40px">
+
+### Sponsored by
+
+<img src="GoogleLogo_Color.png" alt="Google">  <img src="NSF_Logo.png" alt="NSF"> 
+
