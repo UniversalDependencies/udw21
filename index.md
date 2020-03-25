@@ -28,5 +28,5 @@ comparative linguistic studies.
 
 ### Sponsored by
 
-<img src="GoogleLogo_Color.png" alt="Google">  <img src="NSF_Logo.png" alt="NSF"> 
+<img src="GoogleLogo_Color.png" alt="Google">  <img src="NSF_Logo.png" alt="NSF" height="56" style="margin: 0 0 0 30px"> 
 
