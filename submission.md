@@ -4,7 +4,7 @@ title: Submission
 ---
 ## Electronic Submission Information
 
-We will be accepting submissions online via the START conference management system (exact link TBA). The submission deadline for both long and short papers is May 15, 2020 (midnight PDT).
+We will be accepting submissions online via the START conference management system at <https://www.softconf.com/coling2020/UDW-20/>. The submission deadline for both long and short papers is May 15, 2020 (midnight PDT).
 
 ## IMPORTANT: New submission guidelines
 
