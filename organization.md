@@ -7,7 +7,7 @@ title: Organization
 
 ## Workshop chairs & organizing committee
 
-* Miryam de Lhoneux, Uppsala University, Sweden
+* Miryam de Lhoneux, University of Copenhagen, Denmark
 * Marie-Catherine de Marneffe, The Ohio State University, USA
 * Joakim Nivre, Uppsala Univeristy, Sweden
 * Sebastian Schuster, Stanford University, USA
