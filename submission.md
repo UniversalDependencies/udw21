@@ -4,11 +4,11 @@ title: Submission
 ---
 ## Electronic Submission Information
 
-We will be accepting submissions online via the START conference management system at <https://www.softconf.com/coling2020/UDW-20/>. The submission deadline for both long and short papers is May 15, 2020 (midnight PDT).
+We will be accepting submissions online via the START conference management system at <https://www.softconf.com/coling2020/UDW-20/>. The submission deadline for both long and short papers is September 4, 2020 (midnight PDT).
 
 ## IMPORTANT: New submission guidelines
 
-UDW-20 adopts ACL’s [new policies for submission, review, and citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation). Submissions that violate any of these policies will be rejected without review. Most importantly, the policies refer to the anonymity period, which starts on April 15, 2020 for UDW-20.
+UDW-20 adopts ACL’s [new policies for submission, review, and citation](https://www.aclweb.org/portal/content/new-policies-submission-review-and-citation). Submissions that violate any of these policies will be rejected without review. Most importantly, the policies refer to the anonymity period, which starts on August 4, 2020 for UDW-20.
 
 You may not make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period.
 
