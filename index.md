@@ -5,7 +5,7 @@ title: UDW 2020
 
 # Universal Dependencies Workshop 2020 (UDW 2020)
 
-### [Coling 2020](https://coling2020.org), Barcelona, December 13, 2020 (new date!)
+### [Coling 2020](https://coling2020.org), online, December 13, 2020 (new date and now online!)
 
 
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
@@ -22,11 +22,6 @@ comparative linguistic studies.
 
 **Invited speaker**: Martha Palmer, University of Colorado Boulder, USA
 
-**Note regarding the COVID-19 pandemic**: COLING 2020 and all associated workshops 
-have now been postponed to December 2020 (read full statement [here](https://coling2020.org/2020/03/30/covid-19.html)). 
-We hope that international travel will be possible for all participants 
-at that point but we will provide opportunities for remote presentations 
-to presenters who cannot attend in person due to potentially remaining travel bans.
 
 <hr style="margin:40px">
 
