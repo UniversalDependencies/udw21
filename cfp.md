@@ -25,7 +25,7 @@ In addition to unpublished work, in the spirit of promoting discussion about UD,
 
 # NEW! CALL FOR PRESENTATIONS FOR 'FINDINGS of EMNLP' PAPERS 
 
-We are now inviting authors of accepted papers at 'Findings of EMNLP' to present their work at UDW-20. To submit your paper for a presentation slot, please send an email to <a href="mailto:udw-organisers@googlegroups.com">udw-organisers@googlegroups.com</a> with:
+We are now inviting authors of accepted papers at 'Findings of EMNLP' to present their work at UDW-20. To submit your paper for a presentation slot, please send an email to <a href="mailto:udw-organisers@googlegroups.com">udw-organisers@googlegroups.com</a> by Friday October 2, 2020 with:
 
 - Your paper
 - One or two sentences explaining why it would be a good fit for the scope of UDW-20.
