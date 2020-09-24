@@ -22,3 +22,10 @@ Priority will be given to papers that adopt a cross-lingual perspective.
 We invite two types of papers: long papers (maximum length of eight (8) pages of content) as well as short papers (maximum length of four (4) pages of content), and should report substantially original research. Reviews will be double-blind. Papers will be presented as oral presentations or posters. All will be included in the proceedings published in the ACL Anthology, where no distinction will be made on the basis of mode of presentation.
 
 In addition to unpublished work, in the spirit of promoting discussion about UD, we also solicit papers on related topics that have already appeared elsewhere. These papers will not be published in the UDW-20 proceedings.
+
+# NEW! CALL FOR PRESENTATIONS FOR 'FINDINGS of EMNLP' PAPERS 
+
+We are now inviting authors of accepted papers at 'Findings of EMNLP' to present their work at UDW-20. To submit your paper for a presentation slot, please send an email to <a href="mailto:udw-organisers@googlegroups.com">udw-organisers@googlegroups.com</a> with:
+
+- Your paper
+- One or two sentences explaining why it would be a good fit for the scope of UDW-20.
