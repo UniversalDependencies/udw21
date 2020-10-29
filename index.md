@@ -10,7 +10,7 @@ title: UDW 2020
 
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
 framework for cross-linguistically consistent treebank annotation that
-has so far been applied to over 80 languages.
+has so far been applied to over 90 languages.
 
 The framework is aiming to capture similarities as well as
 idiosyncracies among typologically different languages (e.g.,
