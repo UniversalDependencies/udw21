@@ -56,7 +56,7 @@ Dima Taji and Nizar Habash: Arborita: A Highly Configurable Multilingual Platfor
 
 Stefan Grünewald and Annemarie Friedrich: Unifying the Treatment of Preposition-Determiner Contractions in German Universal Dependencies Treebanks
 
-** 17:15-18:00 Keynote**
+**17:15-18:00 Keynote**
 
 Martha Palmer: Transcending Dependencies
 
