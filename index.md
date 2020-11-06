@@ -20,7 +20,7 @@ support comparative evaluation and cross-lingual learning but also to
 facilitate multilingual natural language processing and enable
 comparative linguistic studies.
 
-**Invited talk**: Martha Palmer, University of Colorado Boulder, USA: [Transcending Dependencies](/udw20/invited-talk.html))
+**Invited talk**:<br> Martha Palmer, University of Colorado Boulder, USA: [Transcending Dependencies](/udw20/invited-talk.html))
 
 
 <hr style="margin:40px">
