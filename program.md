@@ -56,7 +56,7 @@ Stefan Grünewald and Annemarie Friedrich: [Unifying the Treatment of Prepositio
 
 **17:15-18:00 Keynote**
 
-Martha Palmer: Transcending Dependencies
+Martha Palmer: [Transcending Dependencies](./invited-talk.html)
 
 **18:00-18:10 Break**
 
