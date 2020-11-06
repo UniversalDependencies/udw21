@@ -66,7 +66,7 @@ Tom S. Juzek, Marie-Pauline Krielke and Elke Teich: [Exploring Diachronic Syntac
 
 Tillmann Dönicke, Xiang Yu and Jonas Kuhn: [Identifying and Handling Cross-Treebank Inconsistencies in UD: A Pilot Study](./papers/2020.udw2020-1.8.pdf)
 
-Dominique Brunato, Andrea Cimino, Felice Dell'Orletta, Simonetta Montemagni and Giulia Venturi: [Profiling-UD: A Tool for Linguistic Profiling of Texts](https://www.aclweb.org/anthology/2020.lrec-1.883.pdf)
+Dominique Brunato, Andrea Cimino, Felice Dell'Orletta, Simonetta Montemagni and Giulia Venturi: [Profiling-UD: A Tool for Linguistic Profiling of Texts](https://www.aclweb.org/anthology/2020.lrec-1.883.pdf) (_cross-submission, published at LREC_)
 
 Kilian Evang: [Configurable Dependency Tree Extraction from CCG Derivations](./papers/2020.udw2020-1.10.pdf)
 
