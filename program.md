@@ -24,7 +24,7 @@ Ji Yoon Han, Tae Hwan Oh, Lee Jin and Hansaem Kim: [Annotation Issues in Univers
 
 **15:10-16:00 Q&A Session 2**
 
-Kaius Sinnemäki and Viljami Haakana: [Variation in Universal Dependencies Annotation: [A Token-Based Typological Case Study on Adpossessive Constructions](./papers/2020.udw2020-1.18.pdf)
+Kaius Sinnemäki and Viljami Haakana: [Variation in Universal Dependencies Annotation: A Token-Based Typological Case Study on Adpossessive Constructions](./papers/2020.udw2020-1.18.pdf)
 
 Aleksandrs Berdicevskis and Alexander Piperski: [Corpus Evidence for Word Order Freezing in German and Russian](./papers/2020.udw2020-1.4.pdf)
 
