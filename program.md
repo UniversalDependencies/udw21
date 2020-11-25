@@ -5,6 +5,7 @@ title: Program
 
 # Program
 
+*All times are CET (UTC+1).*
 
 **14:00-14:10 Introduction**
 
