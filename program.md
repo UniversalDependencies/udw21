@@ -5,17 +5,19 @@ title: Program
 
 # Program
 
-*All times are CET (UTC+1).*
+*All times are CET (UTC+1).* The workshop will happen at [Coling on Underline](https://www.underline.io/events/54/reception).
+
+The pre-recorded talks are available in the [Underline session for the workshop](https://underline.io/events/54/sessions?eventSessionId=1447). The posters are available under the [Posters session](https://www.underline.io/events/54/posters/). Search for "UDW".
 
 **14:00-14:10 Introduction**
 
 **14:10-15:00 Q&A Session 1**
 
-Francis Tyers and Karina Mishchenkova: [Dependency Annotation of Noun Incorporation in Polysynthetic Languages](./papers/2020.udw2020-1.22.pdf)
+Sarah McGuiness, Jason Phelan, Abigail Walsh and Teresa Lynn: [Annotating MWEs in the Irish UD Treebank](./papers/2020.udw2020-1.15.pdf)
 
 Josef Ruppenhofer and Ines Rehbein: [I’ve Got a Construction Looks Funny – Representing and Recovering Non-Standard Constructions in UD](./papers/2020.udw2020-1.16.pdf)
 
-Sarah McGuiness, Jason Phelan, Abigail Walsh and Teresa Lynn: [Annotating MWEs in the Irish UD Treebank](./papers/2020.udw2020-1.15.pdf)
+Francis Tyers and Karina Mishchenkova: [Dependency Annotation of Noun Incorporation in Polysynthetic Languages](./papers/2020.udw2020-1.22.pdf)
 
 Olivier Bondéelle and Sylvain Kahane: [Subjecthood and Annotation: The Cases of French and Wolof](./papers/2020.udw2020-1.5.pdf)
 
