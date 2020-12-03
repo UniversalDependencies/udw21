@@ -7,7 +7,9 @@ title: Program
 
 *All times are CET (UTC+1).* The workshop will happen at [Coling on Underline](https://www.underline.io/events/54/reception).
 
-The pre-recorded talks are available in the [Underline session for the workshop](https://underline.io/events/54/sessions?eventSessionId=1447). The posters are available under the [Posters session](https://www.underline.io/events/54/posters/). Search for "UDW".
+The pre-recorded talks are available in the [Underline session for the workshop](https://underline.io/events/54/sessions?eventSessionId=1447). Please watch the talks beforehand and prepare questions. The sessions on December 13 will only be Q&A, without repeating the presentations.
+
+The posters are available under the [Posters session](https://www.underline.io/events/54/posters/). Search for "UDW".
 
 **14:00-14:10 Introduction**
 
