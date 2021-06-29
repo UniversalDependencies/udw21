@@ -1,11 +1,16 @@
 ---
 layout: page
-title: UDW 2020
+title: UDW 2021
 ---
 
-# Universal Dependencies Workshop 2020 (UDW 2020)
+# Universal Dependencies Workshop 2021 (UDW 2021)
 
-### [Coling 2020](https://coling2020.org), online, December 13, 2020 (new date and now online!)
+### [SyntaxFest 2021](https://syntaxfest.github.io/), Sofia, 21 to 25 March 2022.
+
+UDW 2021 will be held at the SyntaxFest in Sofia, during the week of
+March 21-March 25, 2022. The event will be held online, face-to-face or
+hybrid, depending on the health situation. The proceedings will be
+published preemptively, in December 2021.
 
 
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
@@ -20,12 +25,10 @@ support comparative evaluation and cross-lingual learning but also to
 facilitate multilingual natural language processing and enable
 comparative linguistic studies.
 
-**Invited talk**:<br> Martha Palmer, University of Colorado Boulder, USA: [Transcending Dependencies](/udw20/invited-talk.html)
-
 
 <hr style="margin:40px">
 
 ### Sponsored by
 
-<img src="GoogleLogo_Color.png" alt="Google">  <img src="NSF_Logo.png" alt="NSF" height="80" style="margin: -5px 0 0 30px"> 
+<img src="NSF_Logo.png" alt="NSF" height="80" style="margin: -5px 0 0 30px"> 
 

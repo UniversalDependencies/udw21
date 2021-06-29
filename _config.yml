@@ -1,11 +1,11 @@
 # Site settings
-title: UDW20
+title: UDW21
 email: udw-organisers@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
-  Universal Dependencies Workshop 2020 (UDW'20)
-baseurl: "/udw20/" # the subpath of your site, e.g. /blog/
+  Universal Dependencies Workshop 2021 (UDW'21)
+baseurl: "/udw21" # the subpath of your site, e.g. /blog/
 url: "http://universaldependencies.org" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+twitter_username: ud_workshop
 # github_username:  jekyll
 
 # Build settings
