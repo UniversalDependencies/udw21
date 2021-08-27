@@ -28,7 +28,7 @@ We invite two types of submissions: long papers and short papers.
 
 ## Submission page
 
-Papers must be submitted in PDF format exclusively through the [SyntaxFest](https://syntaxfest.github.io/) joint submission page (available soon). All submissions will be done on Easychair. The link will be published here shortly.
+Papers must be submitted in PDF format exclusively through the [SyntaxFest](https://syntaxfest.github.io/) joint [EasyChair](https://easychair.org/conferences/?conf=syntaxfest2021) submission page. All submissions will be done on Easychair. The link will be published here shortly.
 
 On the submission page, authors submit their paper only once for the whole SyntaxFest, composed of 4 conferences, but they can uncheck conferences they do not wish their paper to be considered for. If the paper is deemed appropriate for more than one of the selected conferences, the SyntaxFest joint organization committee decides on the final placement of the paper, which implies the day of the presentation and the proceedings the paper will appear in.
 
@@ -38,7 +38,7 @@ Reviewing of papers will be double-blind. Therefore, the paper must not include 
 
 ## Style guidelines
 
-All submissions should follow the one-column COLING 2020 style guidelines provided as LaTeX style files or Microsoft Word templates (templates might be subject to slight modifications for compatibility reasons). The files will soon be available here.
+All submissions should follow the one-column COLING 2020 style guidelines provided as LaTeX style files or Microsoft Word templates (templates might be subject to slight modifications for compatibility reasons). The files are [downloadable here](/resources/syntaxfest2021style.zip).
 
 ## Proceedings
 
