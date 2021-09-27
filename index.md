@@ -8,8 +8,8 @@ title: UDW 2021
 ### [SyntaxFest 2021](https://syntaxfest.github.io/), Sofia, 21 to 25 March 2022.
 
 UDW 2021 will be held at the SyntaxFest in Sofia, during the week of
-March 21-March 25, 2022. The event will be held online, face-to-face or
-hybrid, depending on the health situation. The proceedings will be
+March 21-March 25, 2022. The event will be held online or in a
+hybrid mode, depending on the health situation. The proceedings will be
 published preemptively, in December 2021.
 
 
