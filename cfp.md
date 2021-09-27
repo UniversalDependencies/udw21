@@ -38,7 +38,8 @@ Reviewing of papers will be double-blind. Therefore, the paper must not include 
 
 ## Style guidelines
 
-All submissions should follow the one-column COLING 2020 style guidelines provided as LaTeX style files or Microsoft Word templates (templates might be subject to slight modifications for compatibility reasons). The files are [downloadable here](/resources/syntaxfest2021style.zip).
+All submissions should follow the one-column COLING 2020 style guidelines provided as LaTeX style files or Microsoft Word templates (templates might be subject to slight modifications for compatibility reasons). The files are [downloadable here](/resources/syntaxfest2021style.zip).   
+Any appendix or supplementary material should be submitted as part of the main pdf and they *do not count towards the page limit*.
 
 ## Proceedings
 
