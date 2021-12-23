@@ -16,4 +16,4 @@ title: Organization
 
 ## Program committee
 
-The program committee is joint with [SyntaxFest](https://syntaxfest.github.io/) and will be announced soon.
+The program committee is joint with [SyntaxFest](https://syntaxfest.github.io/).
