@@ -7,10 +7,9 @@ title: UDW 2021
 
 ### [SyntaxFest 2021](https://syntaxfest.github.io/), Sofia, 21 to 25 March 2022.
 
-UDW 2021 will be held at the SyntaxFest in Sofia, during the week of
-March 21-March 25, 2022. The event will be held online or in a
-hybrid mode, depending on the health situation. The proceedings will be
-published preemptively, in December 2021.
+UDW 2021 will be held at the SyntaxFest online (zoom and gather.town), during the week of
+March 21-March 25, 2022. 
+The proceedings have been published preemptively, in December 2021.
 
 
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
