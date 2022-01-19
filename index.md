@@ -24,6 +24,10 @@ support comparative evaluation and cross-lingual learning but also to
 facilitate multilingual natural language processing and enable
 comparative linguistic studies.
 
+## Invited talk
+
+We will have an invited talk by [Emily Pitler](http://www.emilypitler.com/).
+
 
 <hr style="margin:40px">
 
