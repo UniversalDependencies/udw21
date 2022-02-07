@@ -5,6 +5,8 @@ title: UDW 2021
 
 # Registration Grants
 
-We secured funds from the National Science Foundation (NSF) and Google to offer grants to some participants to cover registration fees. The funds from the NSF are restricted to students currently enrolled at a US university; for the remaining funds, we will prioritize students, participants with accepted papers, and participants from universities outside of the US. 
 
-The submission form on SoftConf contains information on how to apply for a registration grant.
+If you are currently enrolled at a US university, we have funding from the National Science Foundation (NSF) which can be used to cover your registration fees. 
+
+If you would like to participate in UDW and cannot afford the registration fees for any reason, contact us, we might be able to offer a discount.
+
