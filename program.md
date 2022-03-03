@@ -9,9 +9,9 @@ title: Program
 
 The full program of SyntaxFest can be found [here](https://syntaxfest.github.io/syntaxfest21/#program).
 
-UDW will happen on Wed 23 March between 13h and 18h.
+UDW will happen on **Wed 23 March** between 15h and 18h. The poster sessions are joint between all SyntaxFest events and will happen both on the 22nd and the 23d of March.
 
-**13:00-15:00 Joint SyntaxFest poster session**
+**13:00-15:00 Joint SyntaxFest poster session (22 and 23 March)**
 
 * Mehmet Oguz Derin: [Universal Dependencies for Old Turkish](https://aclanthology.org/2021.udw-1.11/)
 * Mai Omura, Aya Wakasa and Masayuki Asahara: [Word Delimitation Issues in UD Japanese](https://aclanthology.org/2021.udw-1.12/)
