@@ -23,7 +23,7 @@ UDW will happen on **Wed 23 March** between 15h and 18h. The poster sessions are
 * Daniel Zeman: [Date and Time in Universal Dependencies](https://aclanthology.org/2021.udw-1.15/)
 
 
-**15:00-15:45 Talks session 1**
+**15:00-15:45 Talks session 1 - chair: Miryam de Lhoneux**
 
 * Pierre André Ménard, Naïma Hassert and Edith Galy: [UD on Software Requirements: Application and Challenges](https://aclanthology.org/2021.udw-1.5/) (15min)
 * Kilian Evang, Tatiana Bladier, Laura Kallmeyer and Simon Petitjean: [Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies](https://aclanthology.org/2021.udw-1.3/) (15min)
@@ -31,7 +31,7 @@ UDW will happen on **Wed 23 March** between 15h and 18h. The poster sessions are
 
 **15:45-16:00 Break**
 
-**16:00-16:45 Talks session 2**
+**16:00-16:45 Talks session 2 - chair: Reut Tsarfaty**
 
 * Georg Höhn: [Towards a consistent annotation of nominal person in Universal Dependencies](https://aclanthology.org/2021.udw-1.6/) (10min) 
 * Dmytro Kalpakchi and Johan Boye: [Minor changes make a difference: a case study on the consistency of UD-based dependency parsers](https://aclanthology.org/2021.udw-1.8/) (10min) 
@@ -40,6 +40,6 @@ UDW will happen on **Wed 23 March** between 15h and 18h. The poster sessions are
 
 **16:45-17:00 Break**
 
-**17:00-18:00 Invited talk**
+**17:00-18:00 Invited talk - chair: Reut Tsarfaty**
 
 Emily Pitler: [Incorporating Compositionality and Morphology into End-to-End Models](/udw21/invited-talk/)
